@@ -33,7 +33,7 @@ return [
 
     'route_domains' => [
         'admin_site' => 'panel.domain.com',
-        'main_site' => 'http://127.0.0.1:8000/'
+        'main_site' => '127.0.0.1:8000'
     ],
 
     'storage_url' => 'http://cdn.domain.com',
